@@ -1,0 +1,9 @@
+.yarn
+.yarn.lock
+node_modules
+.pnp.cjs
+.pnp.loader.mjs
+
+.env
+.env.local
+.env.example
